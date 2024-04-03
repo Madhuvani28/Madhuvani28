@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
 
-- 📫 You can dm me at **nampallyharish5544@gmail.com**
+- 📫 You can dm me at **gmail.com**
 
 - ⚡ Fun fact about me: **I Think I'm Funny.But Not🤪**
 
@@ -25,12 +25,6 @@
 <br>Hindi
 <br>Tamil</h3>
 <h2 align="left">lets Connect 🤝</h>
-<p align="left">
-<a href="https://twitter.com/nampallyharish6" target="blank"><img align="center" src="twitter.svg" alt="nampallyharish6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nampallyharish" target="blank"><img align="center" src="linkedin.svg" alt="nampallyharish" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nampallyharish143.L?mibextid=ZbWKwL" target="blank"><img align="center" src="facebook.svg" alt="nampally harish" height="30" width="40" /></a>
-<a href="https://instagram.com/__divine__monster_" target="blank"><img align="center" src="instagram.svg" alt="__divine__monster_" height="30" width="40" /></a>
-</p>
 <h1 align="left">Tech Stack💻</h1>
 <h3 align="left">Languages</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="c.svg" alt="c" width="40" height="40"/> </a> 
