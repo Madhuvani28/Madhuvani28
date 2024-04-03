@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nampally Harish</h1>
+<h1 align="center">Hi 👋, I'm Arikilla Madhuvani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br><img align="left" alt="coding" width="400" src="coder.gif">
 <p align="left"> <a href="https://twitter.com/nampallyharish6" target="_blank"><img src="https://img.shields.io/twitter/follow/nampallyharish6?logo=twitter&style=for-the-badge" alt="nampallyharish6" /></a> </p>
