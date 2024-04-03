@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arikilla Madhuvani</h1>
+<h1 align="center">Hi 👋, I'm A.Madhuvani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br><img align="left" alt="coding" width="400" src="coder.gif">
 <h2 align="left">🔥Updates</h2>
