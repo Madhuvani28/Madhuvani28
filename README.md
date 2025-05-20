@@ -4,12 +4,8 @@
 <h2 align="left">🔥Updates</h2>
 <h3>• 🌱 I’m currently learning
 <br>∆ Full Stack Web Development
-<br>∆ Prompt Engineering
-<br>∆ Ethical Hacking
-<br>∆ Data Science
+<br>∆ Python Developer
 <br>∆ MERN Stack
-<br>∆ AI & ML
-<br>∆ UI/UX Design
 <br>∆ Cloud Computing</h3>
 
 - 💬 Ask me about **C,C++,Java,Python,HTML,CSS,JS,SQL**
@@ -21,8 +17,7 @@
 <h3>Speaks
 <br>English
 <br>Telugu
-<br>Hindi
-<br>Tamil</h3>
+<br>Hindi</h3>
 <h2 align="left">lets Connect 🤝</h>
 <h1 align="left">Tech Stack💻</h1>
 <h3 align="left">Languages</h3>
