@@ -4,7 +4,7 @@
 <h2 align="left">🔥Updates</h2>
 <h3>• 🌱 I’m currently learning
 <br>∆ Full Stack Web Development
-<br>∆ Python Developer
+<br>∆ Python Full Stack
 <br>∆ MERN Stack
 <br>∆ Cloud Computing</h3>
 
